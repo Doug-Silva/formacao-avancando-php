@@ -7,6 +7,8 @@ use Alura\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
+
+//criando função buscar os cursos da Alura
 $client = new Client(['base_uri' => 'https://www.alura.com.br/']);
 $crawler = new Crawler();
 
