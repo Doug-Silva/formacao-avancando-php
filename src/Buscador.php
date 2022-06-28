@@ -7,6 +7,7 @@ use Symfony\Component\DomCrawler\Crawler;
 
 class Buscador
 {
+    //criando classe buscador
     private ClientInterface $httpClient;
     private Crawler $crawler;
 
