@@ -1,0 +1,12 @@
+{
+    "name": "doug-silva/buscador-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Douglas Silva",
+            "email": "silvatec.br@gmail.com"
+        }
+    ],
+    "require": {}
+}
