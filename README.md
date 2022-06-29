@@ -20,10 +20,10 @@
 </div>
 
   ## 🚀 Iniciar
-  - Link do package no repositório do Composer: (Precisa ter o Composer instalado)
-  - https://packagist.org/packages/doug-silva/busca-cursos-php-alura
-  - Abaixo, o comando no terminal para instalar o package no seu projeto:
-  - composer require doug-silva/busca-cursos-php-alura
+  - Link do package no repositório do Composer (Precisa ter o Composer instalado) <br>
+  🔗 https://packagist.org/packages/doug-silva/busca-cursos-php-alura <hr>
+  - Abaixo, o comando no terminal para instalar o package no seu projeto <br>
+  📦 composer require doug-silva/busca-cursos-php-alura
 
   ## 🔨 Seja um dos contribuidores<br>
   Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
