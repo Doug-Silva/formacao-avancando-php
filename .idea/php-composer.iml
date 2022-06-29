@@ -67,6 +67,8 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/sabre/event" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/tysonandre/var_representation_polyfill" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/microsoft/tolerant-php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/inspectionProfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
