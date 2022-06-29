@@ -11,11 +11,6 @@
   <div>
     <a href="https://github.com/Doug-Silva/php-composer/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
     alt="License MIT"></a>
-  </div><br>
-
-  <!--Adicionar imagem/gif do projeto aqui-->
-  <div style="width:30%">
-    <a href='#voltar-topo'><img src="./assets/img/tela-inicio-projeto.gif" style="width:100%" alt="Imagem do projeto"></a>   
   </div><hr>
 </div>
 
