@@ -9,7 +9,7 @@
   <p>Projeto de um buscador de cursos, desenvolvido através do curso de PHP Composer, da plataforma Alura</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/php-composer/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
+    <a href="https://github.com/Doug-Silva/php-composer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" 
     alt="License MIT"></a>
   </div><br>
 
